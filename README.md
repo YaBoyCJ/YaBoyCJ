@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @YaBoyCJ
-- 👀 I’m interested in Programming/ VR/Flatscreen Game Development.
-- 🌱 I’m currently learning more about C#.
-
+Independent Game Developer
+Interested in Retro Games and Nostalgic Art Styles
